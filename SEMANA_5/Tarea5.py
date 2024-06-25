@@ -43,6 +43,6 @@ def main():
         elif opcion == '4':
             continuar = False
         else:
-            print("¡La opción que ingresó no es válida! Intente de nuevo.")
+            print("¡La opción que ingresó no es válida!!😮😮😮😮!! Intente de nuevo.")
 if __name__ == "__main__":
     main()
