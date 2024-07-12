@@ -1,0 +1,2 @@
+el constructor se define mediante el método especial __init__.! 
+El destructor puede ser útil para tareas como cerrar conexiones a bases de datos o archivos!
