@@ -25,8 +25,13 @@ def mostrar_menu():
 
     # Diccionario con las opciones del menú y sus rutas correspondientes
     opciones = {
-        '1': 'scripts/ejemplo1.py',
-        '2': 'scripts/ejemplo2.py'
+        '1': 'Unidad 1/1.2. Tecnicas de Programacion/1.2-1. Ejemplo Tecnicas de Programacion.py',
+        '2': 'SEMANA_2/Tarea1.py',
+        '3': 'Semana_3/poo.py',
+        '4': 'SEMANA_4/Tarea4.py',
+        '5': 'SEMANA_5/Tarea5.py',
+        '6': 'SEMANA_6/ejercico_6.py',
+        '7': 'SEMANA_7/ejercicio_7.py',
     }
 
     while True:
