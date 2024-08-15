@@ -1,3 +1,6 @@
+"""  Desarrollar un sistema de gestión de inventarios simple para una tienda, que permita añadir, actualizar,
+eliminar y buscar productos utilizando una estructura de datos personalizada."""
+
 # Creamos nuestra la clase Producto
 class Producto:
     # Creamos el Constructor de la clase Producto
