@@ -1,0 +1,20 @@
+[
+    {
+        "id_producto": "1",
+        "nombre": "Carne",
+        "cantidad": 5,
+        "precio": 19.0
+    },
+    {
+        "id_producto": "2",
+        "nombre": "Pollo",
+        "cantidad": 2,
+        "precio": 10.0
+    },
+    {
+        "id_producto": "3",
+        "nombre": "Agua",
+        "cantidad": 2,
+        "precio": 3.0
+    }
+]
