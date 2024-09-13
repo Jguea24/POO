@@ -211,7 +211,7 @@ class AdministrarTienda:
 
 # Ejecutar la aplicación
 if __name__ == "__main__":
-    archivo_inventario = "inventario.txt"
+    archivo_inventario = "inventario.csv"
     AdministrarTienda(archivo_inventario)
 
 
