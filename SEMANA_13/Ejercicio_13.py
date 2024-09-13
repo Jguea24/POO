@@ -23,7 +23,7 @@ def limpiar_tabla():
 
 # Crear la ventana principal
 ventana = tk.Tk()
-ventana.title("Sistema Para Agregar")  # Título descriptivo
+ventana.title("Sistema Para Agregrar de Johnny G")  # Título descriptivo
 ventana.geometry("600x600")  # Tamaño de la ventana
 ventana.config(bg="medium aquamarine")
 
